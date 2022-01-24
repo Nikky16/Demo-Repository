@@ -1,0 +1,11 @@
+**This is css for the website**
+
+<style>
+    .con{
+        border: 5px solid darkgreen;
+        border-radius: 5px;
+        text-shadow: 2px 2px white;
+        font-weight: bolder;
+        box-shadow: 5px 5px darkred;
+    }
+</style>
